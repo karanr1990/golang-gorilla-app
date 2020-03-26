@@ -3,7 +3,7 @@ package handlers
 import (
 	"context"
 	"github.com/gorilla/mux"
-	"github.ibm.com/Quest-CIO/go-micro-app/data"
+	"github.com/Quest-CIO/go-micro-app/data"
 	"log"
 	"net/http"
 	"strconv"
